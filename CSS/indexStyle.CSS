@@ -58,9 +58,17 @@ main{
 
 footer{
     background: #e1c1a4;
-    height: 140px;
+    height: auto;
 }
 .logoB img{
     height: 100px;
-
+    width: 16%;
+    height: auto;
+    margin: 20px 41% ;
+}
+.credits p{
+    text-align: center;
+    color: #955f26;
+    font-size: 16px;
+    padding: 10px 0;
 }
