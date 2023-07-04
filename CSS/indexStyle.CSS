@@ -45,6 +45,9 @@ body{
     height: 10px;
 }
 
+main{
+    height: 400px;
+}
 .text{
     text-align: center;
     vertical-align: middle;
