@@ -1,0 +1,14 @@
+body{
+    background: #002456;
+}
+.logo img{
+    width: 70%;
+    margin: 20px 15%;
+}
+.text{
+    text-align: center;
+    vertical-align: middle;
+    color: #e1c1a4;
+    font-size: xx-large;
+    margin: 50px 20px;
+}

@@ -1,15 +1,63 @@
 body{
-    background: #002456;
+    background: #64b9ee;
 }
 
-main
+.title{
+    background-color: #002456;
+    padding: 20px 0 0 0; 
+}
+.box{
+    display: block;
+    margin: 0 0 10px  0;
+}
 .logo{
-    width: 90%;
-    height: 90%;
-    margin: 5%;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 20px;
 }
 .logo img{
-    margin: 10% 25%;
-    width: 50%;
-    max-height: 90%;
+    height: 70px;
+}
+.navegar{
+    display: inline-block;
+    position: absolute;
+    top: 70px;
+    right: 20px;
+}
+.navegar li{
+    display: inline;
+    margin: 0 0 0 10px;
+}
+.navegar a{
+    text-transform: uppercase;
+    color: #e1c1a4;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+}
+.navegar a:hover{
+    color: #edcf2e;
+    text-decoration: underline;
+}
+
+.barra{
+    background-color: #955f26;
+    height: 10px;
+}
+
+.text{
+    text-align: center;
+    vertical-align: middle;
+    color: #955f26;
+    font-size: xx-large;
+    margin: 50px 20px;
+}
+
+footer{
+    background: #e1c1a4;
+    height: 140px;
+}
+.logoB img{
+    height: 100px;
+
 }
