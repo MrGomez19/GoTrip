@@ -3,7 +3,9 @@ body{
 }
 
 .title{
-    background-color: #002456;
+    background: url(img/Slide1.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
     padding: 20px 0 0 0; 
 }
 .box{
